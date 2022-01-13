@@ -309,6 +309,12 @@
     "isExperimental": true
   },
   {
+    "address": "0xEd193C4E69F591E42398eF54DEa65aa1bb02835c",
+    "name": "Allbridge UST",
+    "symbol": "UST",
+    "decimals": 18
+  },
+  {
     "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
     "name": "Optics v2 USDC",
     "symbol": "USDC",

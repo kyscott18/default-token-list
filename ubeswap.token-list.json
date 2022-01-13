@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-12-14T15:53:47.343Z",
+  "timestamp": "2022-01-13T17:16:05.550Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -363,6 +363,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
+    },
+    {
+      "address": "0xEd193C4E69F591E42398eF54DEa65aa1bb02835c",
+      "name": "Allbridge UST",
+      "symbol": "UST",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UST.png"
     },
     {
       "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
